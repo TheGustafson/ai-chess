@@ -2,6 +2,8 @@
 
 A small chess rules and search library with classical and NNUE evaluation.
 
+Play against the Wasm engine here: https://thegustafson.com/games/chess
+
 ## Use it
 
 Add the crate to your project:
